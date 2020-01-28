@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\polls",
+    "\\polls\\migrations",
+    "\\polls\\static",
+    "\\polls\\static\\polls",
+    "\\polls\\static\\polls\\images",
+    "\\polls\\templates",
+    "\\polls\\templates\\polls",
+    "\\templates",
+    "\\templates\\admin"
+  ],
+  "SelectedNode": "\\mysite\\settings.py",
+  "PreviewInSolutionExplorer": false
+}
